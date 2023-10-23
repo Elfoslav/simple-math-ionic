@@ -1,0 +1,7 @@
+{
+  "name": "simple-math-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
