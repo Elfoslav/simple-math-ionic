@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'simple-math-ionic',
+  appId: 'com.hromnik.simple_math_ionic',
+  appName: 'Simple math Ionic',
   webDir: 'dist',
   server: {
     androidScheme: 'https'

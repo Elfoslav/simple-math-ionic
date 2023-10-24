@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Simple math Ionic</string>
+    <string name="title_activity_main">Simple math Ionic</string>
+    <string name="package_name">com.hromnik.simple_math_ionic</string>
+    <string name="custom_url_scheme">com.hromnik.simple_math_ionic</string>
+</resources>
